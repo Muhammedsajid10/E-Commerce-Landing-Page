@@ -1,0 +1,15 @@
+.imgg {
+    width: 10%;
+    object-fit: contain;
+
+}
+
+.tbl {
+    width: 69%;
+    margin: 86px auto 0 auto;
+    border: 1px solid black;
+}
+
+.ordrbtn {
+    background-color: rgb(51, 231, 51);
+}

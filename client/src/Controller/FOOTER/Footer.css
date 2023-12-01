@@ -1,0 +1,19 @@
+.footerBtn{
+    background-color: palevioletred;
+    color: white;
+}
+
+.footerCol{
+    margin-top: 74px;
+    margin-bottom: 60px;
+}
+
+.footerContainer {
+    /* background: rgb(246 219 231);
+    margin: 32px 7%;
+    padding: 34px 184px 0; */
+
+    background: rgb(246 219 231);
+    margin: 32px 7% ;
+   
+}

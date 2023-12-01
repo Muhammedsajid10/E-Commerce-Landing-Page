@@ -1,0 +1,29 @@
+.cart-icon-container {
+  border: 2px solid #fff;
+  background-color: #4285f4;
+  padding: 5px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cart-icon-container:hover {
+  background-color: #1a73e8;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+  .cart-icon-container {
+    padding: 5px;
+    border-radius: 0;
+    background-color: white;
+  }
+}
+
+@media (max-width: 576px) {
+  .cart-icon-container {
+    padding: 5px;
+    border-radius: 0;
+    background-color: white;
+  }
+}

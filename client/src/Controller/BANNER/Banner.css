@@ -1,0 +1,22 @@
+.banner-container {
+    background: rgb(246 219 231);
+    /* padding: 20px; */
+    text-align: center;
+    margin: 31px 7%;
+    padding: 42px 15px 42px;
+}
+
+.Tleft{
+    text-align: left;
+}
+
+.prize{
+    font-size: 35px;
+    color: #e01876;
+    font-weight: 600;
+}
+
+.btn{
+    background-color:  #e01876;
+    border: 10px;
+}
