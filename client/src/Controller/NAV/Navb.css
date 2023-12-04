@@ -12,7 +12,7 @@
 }
 
 /* Responsive Styling */
-@media (max-width: 768px) {
+@media (max-width: 992px) {
   .cart-icon-container {
     padding: 5px;
     border-radius: 0;
@@ -26,4 +26,18 @@
     border-radius: 0;
     background-color: white;
   }
+}
+
+.nav-link {
+  color: #171313;
+}
+
+.nav-link:hover {
+  color: #ffcc00;
+  transition: color 0.3s ease;
+}
+
+.cart-icon-container:hover .cart-icon {
+  color: #ffcc00;
+  transition: color 0.3s ease;
 }

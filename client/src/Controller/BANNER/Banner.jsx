@@ -14,7 +14,7 @@ const Banner = () => {
               voluptatibus quisquam. Hic.
             </p>
             <p className='prize'>$600</p>
-            <Button className='btn' >Buy Now</Button>
+            <Button className='btnBanner' >Buy Now</Button>
           </Col>
           <Col md={6} className="text-right">
             <Image

@@ -26,7 +26,11 @@
 }
 
 .COLL{
-    margin: 0px;
+    margin-left: -36px;
     padding: 0px;
     box-sizing: border-box;
+    
+
+
+     
 }

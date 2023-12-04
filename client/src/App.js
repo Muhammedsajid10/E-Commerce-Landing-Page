@@ -20,7 +20,11 @@ function App() {
   <BrowserRouter>
   <Routes>
     <Route path='/' element={<><Navb/><Banner/><Category/><ProductItems/><ProductItemBag/><Footer/></>} />
-    <Route path='/cart' element={<Cart/>} />
+    <Route path='/shoeNav' element={<><Navb/><ProductItems/></>} />
+    <Route path='/bagNav' element={<><Navb/><ProductItemBag/></>} />
+    <Route path='/navCont' element={<><Navb/><Footer/></>} />
+    
+    <Route path='/cart' element={<><Navb/><Cart/></>} />
   </Routes>
   </BrowserRouter>
     </div>
